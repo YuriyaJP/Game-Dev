@@ -1,12 +1,12 @@
 # Define characters
-define eileen = Character('Eileen', color="#c8ffc8")
+define yukino = Character('Yukino', color="#c8ffc8")
 define international_student = Character('International Student', color="#ffffaa")
 
 # Define images
 image bg_school = "school.jpg"
 image bg_classroom = "classroom.jpg"
 image bg_basketball_court = "basketball_court.jpg"
-image eileen_normal = "eileen_normal.png"
+image yukino_normal = "yukino_normal.png"
 image international_student_normal = "international_student_normal.png"
 
 # Start of the visual novel
@@ -20,9 +20,9 @@ label start:
 
     "It's another day at Junior High School."
 
-    "Meet our protagonist, Eileen, a cheerful and lively student."
+    "Meet our protagonist, yukino, a cheerful and lively student."
 
-    show eileen_normal
+    show yukino_normal
     e "Good morning, everyone!"
 
     "And here's the international student who recently joined the school."
@@ -41,7 +41,7 @@ label start:
 
     # Transition to the teacher scene
     scene bg_classroom with dissolve
-    show eileen_normal
+    show yukino_normal
     show international_student_normal
     show teacher_normal
 
@@ -49,9 +49,9 @@ label start:
 
     "After an engaging class, it's time for lunch."
 
-    "Eileen and the international student decide to eat together."
+    "yukino and the international student decide to eat together."
 
-    show eileen_normal
+    show yukino_normal
     show international_student_normal
     e "Hey, wanna sit together?"
 
@@ -63,7 +63,7 @@ label start:
 
     # Transition to the basketball court scene
     scene bg_basketball_court with fade
-    show eileen_normal
+    show yukino_normal
     show international_student_normal
 
     e "Let's play a friendly basketball match!"
