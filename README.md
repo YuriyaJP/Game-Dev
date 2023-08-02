@@ -1,4 +1,4 @@
-# Game-Dev
+# Game-Dev - a Visual Novel for ESL Teaching
 The purpose of this game is to enhance willingness to communicate in junior high school students in a playful matter.
 
 The game's storyline incorporates various aspects of English language learning, such as:
