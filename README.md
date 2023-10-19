@@ -6,6 +6,6 @@ Since the game has at least 8 outcomes, each path required a different label and
 DISCLAIMER: all images and sound effects used in this game are not my property, but derived from royalty free sources, hence I do not hold any rights for them. You are free to play this game in your educational setting as long as you cite the author. (Yuliia Chekhovska)
 
 Learning skills:
-Vocabulary Expansion (specifically slang words),
+Vocabulary Expansion (specifically everyday words),
 Grammar Mastery,
 Reading Comprehension
