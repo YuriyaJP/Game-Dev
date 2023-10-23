@@ -1,5 +1,5 @@
 # Game-Dev - a Visual Novel Game for English Learners
-**The purpose of this game is to enhance willingness to communicate in high school students in a playful matter**.
+**The purpose of this game is to enhance willingness to communicate in high school students in a playful manner**.
 I created this game with Python in Ren'Py, which is a popular tool for making visual novels. I introduced it to my students and taught them the basics of code writing.
 Since the game has at least 8 outcomes, each path required a different label and two choices.
 
